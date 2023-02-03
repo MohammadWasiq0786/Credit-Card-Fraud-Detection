@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-This project is based on **Logistic Regression**
+In this project **Logistic Regression** Algorith is used.
 
 [**Dataset Download Link**](https://drive.google.com/uc?export=download&id=1RpB3_AkS8iGbjX0khJlujDrGKyB2Fzuz)
 
